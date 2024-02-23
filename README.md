@@ -15,3 +15,8 @@ A custom CLI tool built in Python that is my personalized assistant
 1. `py -m pip install --upgrade build`
 2. `py -m build`
 3. `twine upload dist/*`
+
+### Important Docs:
+
+https://packaging.python.org/en/latest/tutorials/packaging-projects/
+https://medium.com/nerd-for-tech/how-to-build-and-distribute-a-cli-tool-with-python-537ae41d9d78
