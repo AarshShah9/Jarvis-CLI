@@ -8,7 +8,7 @@ packages = ["app/application"]
 
 [project]
 name = "cli-jarvis"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Aarsh Shah", email="aarsh@live.ca" },
 ]
