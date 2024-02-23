@@ -4,10 +4,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 setup(
-    name='jarvis',
+    name='cli-jarvis',
     version='0.0.1',
     author='Aarsh Shah',
-    author_email='aarshshah99@gmail.com',
+    author_email='aarsh@live.ca',
     license='MIT License',
     description='This is a personalized assistance: Jarvis',
     long_description=long_description,
