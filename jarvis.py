@@ -22,6 +22,13 @@ def hello(name):
 
 
 def help(self):
+    click.echo("""
+     _                  _
+    | | __ _ _ ____   _(_)___
+ _  | |/ _` | '__\ \ / / / __|
+| |_| | (_| | |   \ V /| \__ \
+ \___/ \__,_|_|    \_/ |_|___/
+                            """)
     click.echo("Welcome to Jarvis CLI. Here are the available commands:")
 
 
